@@ -6,4 +6,9 @@ HTML E CSS
 ## Referência
 
  - Rafaela Ballerini (https://github.com/rafaballerini)
+
+## Autores
+
+- [@marcelajcn](https://github.com/marcelajcn)
+
  
